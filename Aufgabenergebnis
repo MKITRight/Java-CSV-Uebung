@@ -1,0 +1,27 @@
+# Aufgabenergebnis
+
+## Eingesetzte Technologien / Frameworks
+
+Folgende Technologien / Frameworks setze ich in meinem Projekt ein:
+
+- JavaFX
+
+Ich habe diesmal Java verwendet, damit ich neue Technologien lernen und bessere Ergebnisse damit liefern kann.
+## Eingesetzte 3rd Party Libraries
+
+## Eingesetzte 3rd Party Libraries
+
+Ich setze in meinem Projekt die folgenden 3rd Party Libraries ein: (falls keine, Tabelle entfernen und begründen warum)
+
+Name | Begründung
+--- | ---
+[JRE System Library[jre1.8.0_211]](https://www.oracle.com/java/technologies/javase-downloads.html) | Zur grafischen Darstellung der Aufgabe.
+
+## Installation / Ausführen des Projektes
+
+1. Eclipse starten
+2. Den Ordner "CSV-Übungs-Workspace" als workspace auswählen
+3. im Package Explorer CSV-Uebung/src/Darstellung.java öffnen
+4. Das Projekt starten
+5. den absoluten Pfad zur Datei in die Eingabezeile kopieren (".../CSV-Übungs-Workspace/CSV-Uebung/src/tabellendarstellung/Artikel.csv")
+6. Entertaste drücken oder auf "Datei laden" drücken
